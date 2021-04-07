@@ -19,5 +19,10 @@ public class Main
         animalList.add(new Mammal("Bigfoot", 2021));
 
         //Birds
+        animalList.add(new Bird("Pigeon", 1837));
+        animalList.add(new Bird("Peacock", 1821));
+        animalList.add(new Bird("Toucan", 1758));
+        animalList.add(new Bird("Parrot", 1824));
+        animalList.add(new Bird("Swan", 1785));
     }
 }
