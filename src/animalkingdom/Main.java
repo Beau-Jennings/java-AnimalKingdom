@@ -24,5 +24,10 @@ public class Main
         animalList.add(new Bird("Toucan", 1758));
         animalList.add(new Bird("Parrot", 1824));
         animalList.add(new Bird("Swan", 1785));
+
+        // Fish
+        animalList.add(new Fish("Salmon", 1758));
+        animalList.add(new Fish("Catfish", 1817));
+        animalList.add(new Fish("Perch", 1758));
     }
 }
